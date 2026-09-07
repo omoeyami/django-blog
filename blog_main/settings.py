@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "biography",
     "crispy_forms",
     "crispy_bootstrap4",
+    "dashboards",
 
 ]
 
