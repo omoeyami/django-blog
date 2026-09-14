@@ -4,10 +4,10 @@ venv/
 ENV/
 
 # Databases
-*.sqlite3
+
 
 # Media / User Uploads
-media/
+
 
 # Python cache
 __pycache__/
